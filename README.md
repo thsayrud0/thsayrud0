@@ -8,7 +8,7 @@
 <img alt="Android" src ="https://img.shields.io/badge/Android-Green.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 <img alt="Mysql" src ="https://img.shields.io/badge/MySQL-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="tensorflow" src ="https://img.shields.io/badge/Tensorflow-orange.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thsayrud0@gmail.com)](https://solved.ac/thsayrud0@gmail.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thsayrud0)](https://solved.ac/thsayrud0)
 - 🌱 I’m currently learning Algorithm and JAVA
 - 🥇 I majored in Computer Science and Engineering
 - 🎓 Kyonggi University, Computer Science and Engineering ( 2018. 03 ~ )
