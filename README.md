@@ -12,7 +12,9 @@
 - 🌱 I’m currently learning Algorithm and JAVA
 - 🥇 I majored in Computer Science and Engineering
 - 🎓 Kyonggi University, Computer Science and Engineering ( 2018. 03 ~ )
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thsayrud0)](https://solved.ac/thsayrud0)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thsayrud0)](https://solved.ac/thsayrud0)
+
 
 <!--
 **thsayrud0/thsayrud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
