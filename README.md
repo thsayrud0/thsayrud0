@@ -7,9 +7,13 @@
 <img alt="JavaScript" src ="https://img.shields.io/badge/JAVASCRIPT-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="Android" src ="https://img.shields.io/badge/Android-Green.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 <img alt="Mysql" src ="https://img.shields.io/badge/MySQL-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-
+<img alt="tensorflow" src ="https://img.shields.io/badge/Tensorflow-orange.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thsayrud0@gmail.com)](https://solved.ac/thsayrud0@gmail.com)
 - 🌱 I’m currently learning Algorithm and JAVA
-- 🎓 Kyonggi Univ, Computer Science and Engineering ( 2018. 03 ~ )
+- 🥇 I majored in Computer Science and Engineering
+- 🎓 Kyonggi University, Computer Science and Engineering ( 2018. 03 ~ )
+
+
 <!--
 **thsayrud0/thsayrud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
