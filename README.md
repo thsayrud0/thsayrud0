@@ -8,6 +8,9 @@
 <img alt="Android" src ="https://img.shields.io/badge/Android-Green.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 <img alt="Mysql" src ="https://img.shields.io/badge/MySQL-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
+- 🌱 I’m currently learning Algorithm
+- 🌱 I’m currently learning JAVA
+
 <!--
 **thsayrud0/thsayrud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
