@@ -1,4 +1,5 @@
 ### Hello, I'm Developer! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=9577C4&height=300&section=header&text=WELCOME%20TO%20MY%20SPACE!&fontSize=50&fontColor=ffffff)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthsayrud0&count_bg=%239577C4&title_bg=%23D9C6F6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 <img alt="Python" src ="https://img.shields.io/badge/PYTHON-blue.svg?&style=for-the-badge&logo=python&logoColor=white"/>
