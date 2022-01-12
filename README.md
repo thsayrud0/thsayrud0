@@ -15,7 +15,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thsayrud0)](https://solved.ac/thsayrud0)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thsayrud0&&show_icons=true&theme=gruvbox)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thsayrud0)](https://github.com/thsayrud0/github-readme-stats)
 <!--
 **thsayrud0/thsayrud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
